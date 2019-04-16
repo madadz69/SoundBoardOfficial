@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sound Board</string>
+    <string name="welcome">Welcome to Soundboard</string>
+    <string-array name="sound_names">
+        <item>Chicken</item>
+        <item>Cow</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Wolf</item>
+    </string-array>
+</resources>
