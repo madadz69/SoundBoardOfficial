@@ -50,7 +50,7 @@ public class RecordFragment extends Fragment {
                 } catch (IllegalStateException ise) {
                     System.out.println("failed at this bit");
                 } catch (IOException ioe) {
-                    // make something
+                    // Write IOException Arguments Here
                 }
                 record.setEnabled(false);
                 stop.setEnabled(true);
@@ -81,7 +81,7 @@ public class RecordFragment extends Fragment {
                     mediaPlayer.start();
                     Toast.makeText(getContext(), "Playing Audio", Toast.LENGTH_LONG).show();
                 } catch (Exception e) {
-                    // make something
+                    // Write exception arguments here
                 }
             }
         });
