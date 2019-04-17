@@ -1,0 +1,4 @@
+#Wed Apr 17 13:09:41 BST 2019
+base.0=/Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
