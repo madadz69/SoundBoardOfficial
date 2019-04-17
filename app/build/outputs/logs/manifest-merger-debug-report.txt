@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d7311f001a80e7afa871525b4e8b8695/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/03b71926ce254a5c00424832f07db8dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7b178ddf0821c3b1faafa6218a3d5fa4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/921c7b0d835eee97444fab2896c4c75e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/958c02252836eaf06df3694f862c948c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/559409705392f442f90701e3a442c079/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2d7e4c0453a94ef8b4b8a9febcec0527/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e8fcf9a36573a10a37ecce2576e3f70b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ff339683097bd4ec8f4e42fa1a4c51c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/baa59d184c92cc205e78ade111cc3031/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/23bfc55034205b42f09c22552e6896d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cfe6d20159c4c70f63f031cd047d0643/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0f7dff7a084504a0270b88b91c5a4d1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ac1ed9b2d838b612064d59d505a8286f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0c3b2c78f5ff64f7acf32a1938e5da3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4f150c40c7e50f565ca4afa242ef24e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5848235b70f4d93a6d9f07dc064249a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fffed49d3e9bcafd9d1b9973f3524b0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1725149f50197abadb20be58573ada31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/494d54378ec68813dbf24024a004d3a5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebd7b33f285681df1cc8d81558b1df5a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fe34e2673cc0bb1cebed2219e08e9f44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61d037c81fd8aa0fad9c3f552edc1554/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2b4c303ccb7945198ba363b1163c1098/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/097349b06005046c26d704a95d1b1df0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b03d886f9919a168b69f080e76b36d52/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9cd1d72f3cfc1df0955daedfe6887ca7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ebc1bada0fe6c1837b169ee5237c583/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/205d4c5aad836983f280c520087ecfed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/44c3d22b72908a99cdbeccbf860a2050/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6fa1891981d966931eb770bc6048bdf/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:design:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d7311f001a80e7afa871525b4e8b8695/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d7311f001a80e7afa871525b4e8b8695/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7b178ddf0821c3b1faafa6218a3d5fa4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7b178ddf0821c3b1faafa6218a3d5fa4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/494d54378ec68813dbf24024a004d3a5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/494d54378ec68813dbf24024a004d3a5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebd7b33f285681df1cc8d81558b1df5a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebd7b33f285681df1cc8d81558b1df5a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/494d54378ec68813dbf24024a004d3a5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.soundboardnav.MainActivity
+ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d7311f001a80e7afa871525b4e8b8695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d7311f001a80e7afa871525b4e8b8695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/03b71926ce254a5c00424832f07db8dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/03b71926ce254a5c00424832f07db8dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7b178ddf0821c3b1faafa6218a3d5fa4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7b178ddf0821c3b1faafa6218a3d5fa4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/921c7b0d835eee97444fab2896c4c75e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/921c7b0d835eee97444fab2896c4c75e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/958c02252836eaf06df3694f862c948c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/958c02252836eaf06df3694f862c948c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/559409705392f442f90701e3a442c079/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/559409705392f442f90701e3a442c079/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2d7e4c0453a94ef8b4b8a9febcec0527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2d7e4c0453a94ef8b4b8a9febcec0527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e8fcf9a36573a10a37ecce2576e3f70b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e8fcf9a36573a10a37ecce2576e3f70b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ff339683097bd4ec8f4e42fa1a4c51c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ff339683097bd4ec8f4e42fa1a4c51c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/baa59d184c92cc205e78ade111cc3031/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/baa59d184c92cc205e78ade111cc3031/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/23bfc55034205b42f09c22552e6896d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/23bfc55034205b42f09c22552e6896d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cfe6d20159c4c70f63f031cd047d0643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cfe6d20159c4c70f63f031cd047d0643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0f7dff7a084504a0270b88b91c5a4d1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0f7dff7a084504a0270b88b91c5a4d1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ac1ed9b2d838b612064d59d505a8286f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ac1ed9b2d838b612064d59d505a8286f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0c3b2c78f5ff64f7acf32a1938e5da3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0c3b2c78f5ff64f7acf32a1938e5da3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4f150c40c7e50f565ca4afa242ef24e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4f150c40c7e50f565ca4afa242ef24e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5848235b70f4d93a6d9f07dc064249a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5848235b70f4d93a6d9f07dc064249a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fffed49d3e9bcafd9d1b9973f3524b0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fffed49d3e9bcafd9d1b9973f3524b0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1725149f50197abadb20be58573ada31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1725149f50197abadb20be58573ada31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/494d54378ec68813dbf24024a004d3a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/494d54378ec68813dbf24024a004d3a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebd7b33f285681df1cc8d81558b1df5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebd7b33f285681df1cc8d81558b1df5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fe34e2673cc0bb1cebed2219e08e9f44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fe34e2673cc0bb1cebed2219e08e9f44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61d037c81fd8aa0fad9c3f552edc1554/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61d037c81fd8aa0fad9c3f552edc1554/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2b4c303ccb7945198ba363b1163c1098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2b4c303ccb7945198ba363b1163c1098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/097349b06005046c26d704a95d1b1df0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/097349b06005046c26d704a95d1b1df0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b03d886f9919a168b69f080e76b36d52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b03d886f9919a168b69f080e76b36d52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9cd1d72f3cfc1df0955daedfe6887ca7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9cd1d72f3cfc1df0955daedfe6887ca7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ebc1bada0fe6c1837b169ee5237c583/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ebc1bada0fe6c1837b169ee5237c583/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/205d4c5aad836983f280c520087ecfed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/205d4c5aad836983f280c520087ecfed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/44c3d22b72908a99cdbeccbf860a2050/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/44c3d22b72908a99cdbeccbf860a2050/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6fa1891981d966931eb770bc6048bdf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adamjenkins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6fa1891981d966931eb770bc6048bdf/AndroidManifest.xml:20:5-44
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adamjenkins/AndroidStudioProjects/soundboardNav/app/src/main/AndroidManifest.xml
